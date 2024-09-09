@@ -1,0 +1,16 @@
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.Form1.resources
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.csproj.GenerateResource.cache
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.AssemblyInfoInputs.cache
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.AssemblyInfo.cs
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.csproj.CoreCompileInputs.cache
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\bin\Debug\net8.0-windows\TRON.exe
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\bin\Debug\net8.0-windows\TRON.deps.json
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\bin\Debug\net8.0-windows\TRON.runtimeconfig.json
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\bin\Debug\net8.0-windows\TRON.dll
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\bin\Debug\net8.0-windows\TRON.pdb
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.dll
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\refint\TRON.dll
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.pdb
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\TRON.genruntimeconfig.cache
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto 1\TRON\TRON\obj\Debug\net8.0-windows\ref\TRON.dll
