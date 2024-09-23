@@ -1,0 +1,17 @@
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\bin\Debug\net8.0-windows\TRONN.exe
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\bin\Debug\net8.0-windows\TRONN.deps.json
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\bin\Debug\net8.0-windows\TRONN.runtimeconfig.json
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\bin\Debug\net8.0-windows\TRONN.dll
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\bin\Debug\net8.0-windows\TRONN.pdb
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.Form1.resources
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.csproj.GenerateResource.cache
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.AssemblyInfoInputs.cache
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.AssemblyInfo.cs
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.csproj.CoreCompileInputs.cache
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.sourcelink.json
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.dll
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\refint\TRONN.dll
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.pdb
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\TRONN.genruntimeconfig.cache
+C:\Users\Esteb\Documentos\Datos I\Proyectos\Proyecto-I-IIS2024\TRONN\TRONN\obj\Debug\net8.0-windows\ref\TRONN.dll

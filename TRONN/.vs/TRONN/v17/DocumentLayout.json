@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|c:\\users\\esteb\\documentos\\datos i\\proyectos\\proyecto-i-iis2024\\tronn\\tronn\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|solutionrelative:tronn\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|c:\\users\\esteb\\documentos\\datos i\\proyectos\\proyecto-i-iis2024\\tronn\\tronn\\itempoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|solutionrelative:tronn\\itempoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|c:\\users\\esteb\\documentos\\datos i\\proyectos\\proyecto-i-iis2024\\tronn\\tronn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|solutionrelative:tronn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|c:\\users\\esteb\\documentos\\datos i\\proyectos\\proyecto-i-iis2024\\tronn\\tronn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|solutionrelative:tronn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|c:\\users\\esteb\\documentos\\datos i\\proyectos\\proyecto-i-iis2024\\tronn\\tronn\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|solutionrelative:tronn\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|c:\\users\\esteb\\documentos\\datos i\\proyectos\\proyecto-i-iis2024\\tronn\\tronn\\estela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|solutionrelative:tronn\\estela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|c:\\users\\esteb\\documentos\\datos i\\proyectos\\proyecto-i-iis2024\\tronn\\tronn\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|solutionrelative:tronn\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|c:\\users\\esteb\\documentos\\datos i\\proyectos\\proyecto-i-iis2024\\tronn\\tronn\\malla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E4C1B-FA79-4E42-BC23-BE097B70085A}|TRONN\\TRONN.csproj|solutionrelative:tronn\\malla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Nodo.cs",
+              "RelativeDocumentMoniker": "TRONN\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Nodo.cs",
+              "RelativeToolTip": "TRONN\\Nodo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:34:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemPoder.cs",
+              "DocumentMoniker": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\ItemPoder.cs",
+              "RelativeDocumentMoniker": "TRONN\\ItemPoder.cs",
+              "ToolTip": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\ItemPoder.cs",
+              "RelativeToolTip": "TRONN\\ItemPoder.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:14:48.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Juego.cs",
+              "RelativeDocumentMoniker": "TRONN\\Juego.cs",
+              "ToolTip": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Juego.cs",
+              "RelativeToolTip": "TRONN\\Juego.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:03:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Moto.cs",
+              "RelativeDocumentMoniker": "TRONN\\Moto.cs",
+              "ToolTip": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Moto.cs",
+              "RelativeToolTip": "TRONN\\Moto.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAA3wIAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:06:18.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estela.cs",
+              "DocumentMoniker": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Estela.cs",
+              "RelativeDocumentMoniker": "TRONN\\Estela.cs",
+              "ToolTip": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Estela.cs",
+              "RelativeToolTip": "TRONN\\Estela.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:21:38.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Form1.cs",
+              "RelativeDocumentMoniker": "TRONN\\Form1.cs",
+              "ToolTip": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Form1.cs",
+              "RelativeToolTip": "TRONN\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:26:27.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Form1.cs",
+              "RelativeDocumentMoniker": "TRONN\\Form1.cs",
+              "ToolTip": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TRONN\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:25:17.409Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Malla.cs",
+              "DocumentMoniker": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Malla.cs",
+              "RelativeDocumentMoniker": "TRONN\\Malla.cs",
+              "ToolTip": "C:\\Users\\Esteb\\Documentos\\Datos I\\Proyectos\\Proyecto-I-IIS2024\\TRONN\\TRONN\\Malla.cs",
+              "RelativeToolTip": "TRONN\\Malla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:53:01.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
